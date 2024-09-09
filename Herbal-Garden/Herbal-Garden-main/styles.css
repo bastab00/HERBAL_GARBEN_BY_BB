@@ -886,3 +886,10 @@ nav ul li a:hover::after {
     color: #666;
     font-size: 1em;
 }
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
+
+
